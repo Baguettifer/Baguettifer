@@ -1,3 +1,5 @@
+# HELLO, MY NAME IS BAGUETTIFER
+
 yo, im Baguettifer, im a programmer
 
 i use arch btw.
