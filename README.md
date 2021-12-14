@@ -26,6 +26,7 @@ https://github.com/Baguettifer
 HELLO, MY NAME IS BAGUETTIFER
 
 Signed, Tuesday 14 December 2021.
+
 -----BEGIN PGP SIGNATURE-----
 
 iHUEARYKAB0WIQR+0zOngMxPdJWlXRXw05eGxc8oMAUCYbg57AAKCRDw05eGxc8o
