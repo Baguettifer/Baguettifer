@@ -11,34 +11,8 @@ AQEHQHcaQ9fTyAzYBjt3MC3lM0wcO71k62UsuPLL+ThtFLtrAwEIB4h4BBgWCgAg
 FiEEftMzp4DMT3SVpV0V8NOXhsXPKDAFAmG4HOsCGwwACgkQ8NOXhsXPKDDQpwEA
 qRKcil7zuHhlyW1+cjL9u5bYA6VaSzizpWxuacmkSPYBAO2CtK1BJmA8jlxTX3FD
 df5IvqZJdaxxceA67sdwtf4H
-
 =SYEC
-
 -----END PGP PUBLIC KEY BLOCK-----
-
-
-
-
-
------BEGIN PGP SIGNED MESSAGE-----
-
-Hash: SHA512
-
-https://github.com/Baguettifer
-
-HELLO, MY NAME IS BAGUETTIFER
-
-Signed, Tuesday 14 December 2021.
-
------BEGIN PGP SIGNATURE-----
-
-iHUEARYKAB0WIQR+0zOngMxPdJWlXRXw05eGxc8oMAUCYbg57AAKCRDw05eGxc8o
-MMFNAQDSgD009jSQHXUgIsbeR5UIu7TcZo45oyB57hlks6OkkwD/e+a+R4W7HdK5
-1HUc38CqpFONLR/Unr1AHkS3rp/QGAA=
-
-=J5G/
-
------END PGP SIGNATURE-----
 
 <!---
 $$$$$$$$$$$$$$$$$$$$$$$$$$
